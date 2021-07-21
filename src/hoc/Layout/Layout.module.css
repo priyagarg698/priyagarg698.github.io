@@ -1,0 +1,25 @@
+.header{
+    height: 5rem;
+    width: 100%;
+    background-color: #0a0a0a;
+    display: flex;
+    color: #CCCCCC;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10%;
+}
+
+.Logo{
+    padding: 10px;
+    height: 80%;
+}
+
+.Logo img{
+    height:100%
+}
+
+.Content{
+    margin-top: 2rem;
+    padding-left: 5rem; 
+    padding-right: 5rem;
+}

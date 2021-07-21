@@ -1,0 +1,107 @@
+{
+    "manageCampaigns":{
+        "key":"manageCampaigns",
+        "value":"Kampagne verwalten",
+        "locale": "gn"
+    },
+    "upcommingCampaigns":{
+        "key":"upcommingCampaigns",
+        "value":"Kommende Kampagnen",
+        "locale": "gn"
+    },
+    "liveCampaigns":{
+        "key":"liveCampaigns",
+        "value":"Live-Kampagnen",
+        "locale": "gn"
+    },
+    "pastCampaigns":{
+        "key":"pastCampaigns",
+        "value":"Vergangene Kampagnen",
+        "locale": "gn"
+    },
+    "date":{
+        "key":"date",
+        "value":"Datum",
+        "locale": "gn"
+    },
+    "campaign":{
+        "key":"campaign",
+        "value":"Kampagne",
+        "locale": "gn"
+    },
+    "view":{
+        "key":"view",
+        "value":"Aussicht",
+        "locale": "gn"
+    },
+    "actions":{
+        "key":"actions",
+        "value":"Aktionen",
+        "locale": "gn"
+    },
+    "daysAgo":{
+        "key":"daysAgo",
+        "value":"Vor Tagen",
+        "locale": "gn"
+    },
+    "daysAhead":{
+        "key":"daysAhead",
+        "value":"Tage im Voraus",
+        "locale": "gn"
+    },
+    "today":{
+        "key":"today",
+        "value":"Heute",
+        "locale": "gn"
+    },
+    "viewPricing":{
+        "key":"viewPricing",
+        "value":"Preise anzeigen",
+        "locale": "en"
+    },
+    "report":{
+        "key":"report",
+        "value":"Bericht",
+        "locale": "en"
+    },
+    "scheduleAgain":{
+        "key":"scheduleAgain",
+        "value":"Erneut planen",
+        "locale": "en"
+    },
+    "csv":{
+        "key":"csv",
+        "value":"CSV",
+        "locale": "en"
+    },
+    "pricing":{
+        "key":"pricing",
+        "value":"Preisgestaltung",
+        "locale": "en"
+    },
+    "week":{
+        "key":"weeek",
+        "value":"Woche",
+        "locale": "en"
+    },
+    "months":{
+        "key":"months",
+        "value":"Monate",
+        "locale": "en"
+    },
+    "month":{
+        "key":"month",
+        "value":"Monat",
+        "locale": "en"
+    },
+    "year":{
+        "key":"year",
+        "value":"Jahr",
+        "locale": "en"
+    },
+    "close":{
+        "key":"close",
+        "value":"schließen",
+        "locale": "en"
+    }
+}

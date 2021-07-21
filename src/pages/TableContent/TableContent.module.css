@@ -1,0 +1,85 @@
+#title {
+    text-align: start;
+  }
+  .custom_pointer{
+    cursor: pointer;
+  }
+  
+  .students {
+    text-align: start;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    width: 100%;
+  }
+  
+  .students td, #students th {
+    border-bottom: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .students th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: start;
+    background-color: #f2f2f2;
+    color: black;
+    text-transform: capitalize;
+  }
+  .cssCircle {
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    padding: 0px;    
+    background: #eb840f;
+    border: 1px solid #eb840f;
+    color: #eb840f;
+    line-height: 1.3em;
+    color: white;
+    padding-left: 0.4em;
+  }
+  .calendarModal{
+    box-shadow: 0 1px 4px rgb(0 0 0 / 20%);
+      border-radius: 6px;
+      background-color: white;
+      padding: 1rem;
+      text-align: center;
+      width: 30rem;
+      z-index: 10;
+      position: fixed;
+      /* top: 45vh; */
+      left: calc(50% - -9rem);
+  }
+  .date{
+    border: none;
+    color: white;
+  }
+
+input[type=date]:required:invalid::-webkit-datetime-edit {
+    color: transparent;
+}
+
+input[type=date]::-webkit-datetime-edit-text {
+    -webkit-appearance: none;
+    display: none;
+}
+input[type=date]::-webkit-datetime-edit-month-field{
+    -webkit-appearance: none;
+    display: none;
+}
+input[type=date]::-webkit-datetime-edit-day-field {
+    -webkit-appearance: none;
+    display: none;
+}
+input[type=date]::-webkit-datetime-edit-year-field {
+    -webkit-appearance: none;
+    display: none;
+}
+input[type=date]{
+  border: none;
+  width:20%;
+}
+input[type=date]:focus{
+  border: none;
+outline: none;
+
+}

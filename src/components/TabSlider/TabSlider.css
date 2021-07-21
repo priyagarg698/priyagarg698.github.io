@@ -1,0 +1,25 @@
+.rc-tabs {
+    border: none !important;
+  }
+  .rc-tabs-tab {
+    padding: 5px;
+    text-transform: capitalize;
+  }
+  .rc-tabs-tab .rc-tabs-tab-btn {
+    font-weight: normal;
+  }
+  .rc-tabs-tab.rc-tabs-tab-active {
+    background: ececec;
+    color: #85b810;
+  }
+  .rc-tabs-ink-bar {
+    background: #85b810 !important;
+  }
+  .rc-tabs-content-holder {
+    padding: 10px;
+    background: white;
+  }
+  .rc-tabs-content {
+    padding-top: 2rem;
+  }
+

@@ -1,0 +1,107 @@
+{
+    "manageCampaigns":{
+        "key":"manageCampaigns",
+        "value":"Manage Campaigns",
+        "locale": "en"
+    },
+    "upcommingCampaigns":{
+        "key":"upcommingCampaigns",
+        "value":"Upcomming Campaigns",
+        "locale": "en"
+    },
+    "liveCampaigns":{
+        "key":"liveCampaigns",
+        "value":"Live Campaigns",
+        "locale": "en"
+    },
+     "pastCampaigns":{
+        "key":"pastCampaigns",
+        "value":"Past Campaigns",
+        "locale": "gn"
+    },
+    "date":{
+        "key":"date",
+        "value":"Date",
+        "locale": "en"
+    },
+    "campaign":{
+        "key":"campaign",
+        "value":"Campaign",
+        "locale": "en"
+    },
+    "view":{
+        "key":"view",
+        "value":"View",
+        "locale": "en"
+    },
+    "actions":{
+        "key":"actions",
+        "value":"Actions",
+        "locale": "en"
+    },
+    "daysAgo":{
+        "key":"daysAgo",
+        "value":"Days ago",
+        "locale": "en"
+    },
+    "daysAhead":{
+        "key":"daysAhead",
+        "value":"Days ahead",
+        "locale": "en"
+    },
+    "today":{
+        "key":"today",
+        "value":"Today",
+        "locale": "en"
+    },
+    "viewPricing":{
+        "key":"viewPricing",
+        "value":"View pricing",
+        "locale": "en"
+    },
+    "report":{
+        "key":"report",
+        "value":"Report",
+        "locale": "en"
+    },
+    "scheduleAgain":{
+        "key":"scheduleAgain",
+        "value":"Schedule again",
+        "locale": "en"
+    },
+    "csv":{
+        "key":"csv",
+        "value":"CSV",
+        "locale": "en"
+    },
+    "pricing":{
+        "key":"pricing",
+        "value":"Pricing",
+        "locale": "en"
+    },
+    "week":{
+        "key":"weeek",
+        "value":"Week",
+        "locale": "en"
+    },
+    "months":{
+        "key":"months",
+        "value":"Months",
+        "locale": "en"
+    },
+    "month":{
+        "key":"month",
+        "value":"Month",
+        "locale": "en"
+    },
+    "year":{
+        "key":"year",
+        "value":"Year",
+        "locale": "en"
+    },
+    "close":{
+        "key":"close",
+        "value":"Close",
+        "locale": "en"
+    }
+}
